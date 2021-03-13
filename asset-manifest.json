@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/ksig/static/css/main.528e0ac2.chunk.css",
-    "main.js": "/ksig/static/js/main.0c99cd08.chunk.js",
-    "main.js.map": "/ksig/static/js/main.0c99cd08.chunk.js.map",
-    "runtime-main.js": "/ksig/static/js/runtime-main.2e1147b6.js",
-    "runtime-main.js.map": "/ksig/static/js/runtime-main.2e1147b6.js.map",
-    "static/js/2.3ef25d4c.chunk.js": "/ksig/static/js/2.3ef25d4c.chunk.js",
-    "static/js/2.3ef25d4c.chunk.js.map": "/ksig/static/js/2.3ef25d4c.chunk.js.map",
-    "static/js/3.c607a514.chunk.js": "/ksig/static/js/3.c607a514.chunk.js",
-    "static/js/3.c607a514.chunk.js.map": "/ksig/static/js/3.c607a514.chunk.js.map",
+    "main.css": "/ksig/static/css/main.b82226e4.chunk.css",
+    "main.js": "/ksig/static/js/main.48ec0e7e.chunk.js",
+    "main.js.map": "/ksig/static/js/main.48ec0e7e.chunk.js.map",
+    "runtime-main.js": "/ksig/static/js/runtime-main.c144f766.js",
+    "runtime-main.js.map": "/ksig/static/js/runtime-main.c144f766.js.map",
+    "static/js/2.521e7056.chunk.js": "/ksig/static/js/2.521e7056.chunk.js",
+    "static/js/2.521e7056.chunk.js.map": "/ksig/static/js/2.521e7056.chunk.js.map",
+    "static/js/3.b3cb1471.chunk.js": "/ksig/static/js/3.b3cb1471.chunk.js",
+    "static/js/3.b3cb1471.chunk.js.map": "/ksig/static/js/3.b3cb1471.chunk.js.map",
     "index.html": "/ksig/index.html",
-    "static/css/main.528e0ac2.chunk.css.map": "/ksig/static/css/main.528e0ac2.chunk.css.map",
-    "static/js/2.3ef25d4c.chunk.js.LICENSE.txt": "/ksig/static/js/2.3ef25d4c.chunk.js.LICENSE.txt",
+    "static/css/main.b82226e4.chunk.css.map": "/ksig/static/css/main.b82226e4.chunk.css.map",
+    "static/js/2.521e7056.chunk.js.LICENSE.txt": "/ksig/static/js/2.521e7056.chunk.js.LICENSE.txt",
+    "static/media/Circle_Logo.68dac97e.png": "/ksig/static/media/Circle_Logo.68dac97e.png",
+    "static/media/Covid_Hype.2bdec347.mp4": "/ksig/static/media/Covid_Hype.2bdec347.mp4",
     "static/media/crest.c0d30ce8.png": "/ksig/static/media/crest.c0d30ce8.png",
+    "static/media/ig.eb12b070.png": "/ksig/static/media/ig.eb12b070.png",
+    "static/media/ks_net_logo-1.bae3448f.png": "/ksig/static/media/ks_net_logo-1.bae3448f.png",
     "static/media/logo.6ce24c58.svg": "/ksig/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e1147b6.js",
-    "static/js/2.3ef25d4c.chunk.js",
-    "static/css/main.528e0ac2.chunk.css",
-    "static/js/main.0c99cd08.chunk.js"
+    "static/js/runtime-main.c144f766.js",
+    "static/js/2.521e7056.chunk.js",
+    "static/css/main.b82226e4.chunk.css",
+    "static/js/main.48ec0e7e.chunk.js"
   ]
 }
