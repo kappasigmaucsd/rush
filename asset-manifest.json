@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ksig/static/css/main.21f45db9.chunk.css",
-    "main.js": "/ksig/static/js/main.4a92a96a.chunk.js",
-    "main.js.map": "/ksig/static/js/main.4a92a96a.chunk.js.map",
+    "main.css": "/ksig/static/css/main.ff0e4af4.chunk.css",
+    "main.js": "/ksig/static/js/main.8728ccc9.chunk.js",
+    "main.js.map": "/ksig/static/js/main.8728ccc9.chunk.js.map",
     "runtime-main.js": "/ksig/static/js/runtime-main.88125f11.js",
     "runtime-main.js.map": "/ksig/static/js/runtime-main.88125f11.js.map",
     "static/js/2.1ae823c3.chunk.js": "/ksig/static/js/2.1ae823c3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.83cdfe6b.chunk.js": "/ksig/static/js/3.83cdfe6b.chunk.js",
     "static/js/3.83cdfe6b.chunk.js.map": "/ksig/static/js/3.83cdfe6b.chunk.js.map",
     "index.html": "/ksig/index.html",
-    "static/css/main.21f45db9.chunk.css.map": "/ksig/static/css/main.21f45db9.chunk.css.map",
+    "static/css/main.ff0e4af4.chunk.css.map": "/ksig/static/css/main.ff0e4af4.chunk.css.map",
     "static/js/2.1ae823c3.chunk.js.LICENSE.txt": "/ksig/static/js/2.1ae823c3.chunk.js.LICENSE.txt",
     "static/media/Circle_Logo.68dac97e.png": "/ksig/static/media/Circle_Logo.68dac97e.png",
     "static/media/Covid_Hype.2bdec347.mp4": "/ksig/static/media/Covid_Hype.2bdec347.mp4",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.88125f11.js",
     "static/js/2.1ae823c3.chunk.js",
-    "static/css/main.21f45db9.chunk.css",
-    "static/js/main.4a92a96a.chunk.js"
+    "static/css/main.ff0e4af4.chunk.css",
+    "static/js/main.8728ccc9.chunk.js"
   ]
 }
