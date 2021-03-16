@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ksig/static/css/main.ff0e4af4.chunk.css",
+    "main.css": "/ksig/static/css/main.be0327c1.chunk.css",
     "main.js": "/ksig/static/js/main.06658425.chunk.js",
     "main.js.map": "/ksig/static/js/main.06658425.chunk.js.map",
     "runtime-main.js": "/ksig/static/js/runtime-main.58a058fc.js",
@@ -10,7 +10,7 @@
     "static/js/3.67420859.chunk.js": "/ksig/static/js/3.67420859.chunk.js",
     "static/js/3.67420859.chunk.js.map": "/ksig/static/js/3.67420859.chunk.js.map",
     "index.html": "/ksig/index.html",
-    "static/css/main.ff0e4af4.chunk.css.map": "/ksig/static/css/main.ff0e4af4.chunk.css.map",
+    "static/css/main.be0327c1.chunk.css.map": "/ksig/static/css/main.be0327c1.chunk.css.map",
     "static/js/2.49c7187a.chunk.js.LICENSE.txt": "/ksig/static/js/2.49c7187a.chunk.js.LICENSE.txt",
     "static/media/Circle_Logo.68dac97e.png": "/ksig/static/media/Circle_Logo.68dac97e.png",
     "static/media/Covid_Hype.2bdec347.mp4": "/ksig/static/media/Covid_Hype.2bdec347.mp4",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.58a058fc.js",
     "static/js/2.49c7187a.chunk.js",
-    "static/css/main.ff0e4af4.chunk.css",
+    "static/css/main.be0327c1.chunk.css",
     "static/js/main.06658425.chunk.js"
   ]
 }
