@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ksig/static/css/main.be0327c1.chunk.css",
-    "main.js": "/ksig/static/js/main.06658425.chunk.js",
-    "main.js.map": "/ksig/static/js/main.06658425.chunk.js.map",
-    "runtime-main.js": "/ksig/static/js/runtime-main.58a058fc.js",
-    "runtime-main.js.map": "/ksig/static/js/runtime-main.58a058fc.js.map",
-    "static/js/2.49c7187a.chunk.js": "/ksig/static/js/2.49c7187a.chunk.js",
-    "static/js/2.49c7187a.chunk.js.map": "/ksig/static/js/2.49c7187a.chunk.js.map",
-    "static/js/3.67420859.chunk.js": "/ksig/static/js/3.67420859.chunk.js",
-    "static/js/3.67420859.chunk.js.map": "/ksig/static/js/3.67420859.chunk.js.map",
+    "main.css": "/ksig/static/css/main.ca7260d4.chunk.css",
+    "main.js": "/ksig/static/js/main.d51478fc.chunk.js",
+    "main.js.map": "/ksig/static/js/main.d51478fc.chunk.js.map",
+    "runtime-main.js": "/ksig/static/js/runtime-main.af187d25.js",
+    "runtime-main.js.map": "/ksig/static/js/runtime-main.af187d25.js.map",
+    "static/js/2.61a01a15.chunk.js": "/ksig/static/js/2.61a01a15.chunk.js",
+    "static/js/2.61a01a15.chunk.js.map": "/ksig/static/js/2.61a01a15.chunk.js.map",
+    "static/js/3.2d107e56.chunk.js": "/ksig/static/js/3.2d107e56.chunk.js",
+    "static/js/3.2d107e56.chunk.js.map": "/ksig/static/js/3.2d107e56.chunk.js.map",
     "index.html": "/ksig/index.html",
-    "static/css/main.be0327c1.chunk.css.map": "/ksig/static/css/main.be0327c1.chunk.css.map",
-    "static/js/2.49c7187a.chunk.js.LICENSE.txt": "/ksig/static/js/2.49c7187a.chunk.js.LICENSE.txt",
+    "static/css/main.ca7260d4.chunk.css.map": "/ksig/static/css/main.ca7260d4.chunk.css.map",
+    "static/js/2.61a01a15.chunk.js.LICENSE.txt": "/ksig/static/js/2.61a01a15.chunk.js.LICENSE.txt",
     "static/media/Circle_Logo.68dac97e.png": "/ksig/static/media/Circle_Logo.68dac97e.png",
     "static/media/Covid_Hype.2bdec347.mp4": "/ksig/static/media/Covid_Hype.2bdec347.mp4",
     "static/media/Image from iOS.da080127.png": "/ksig/static/media/Image from iOS.da080127.png",
@@ -21,13 +21,14 @@
     "static/media/ig.eb12b070.png": "/ksig/static/media/ig.eb12b070.png",
     "static/media/ks_net_logo-1.bae3448f.png": "/ksig/static/media/ks_net_logo-1.bae3448f.png",
     "static/media/liam.7297c0d8.jpg": "/ksig/static/media/liam.7297c0d8.jpg",
+    "static/media/moshed_crest.fd6c3f42.gif": "/ksig/static/media/moshed_crest.fd6c3f42.gif",
     "static/media/roberto.b5698a8d.JPG": "/ksig/static/media/roberto.b5698a8d.JPG",
     "static/media/tony.fd5cb370.jpg": "/ksig/static/media/tony.fd5cb370.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.58a058fc.js",
-    "static/js/2.49c7187a.chunk.js",
-    "static/css/main.be0327c1.chunk.css",
-    "static/js/main.06658425.chunk.js"
+    "static/js/runtime-main.af187d25.js",
+    "static/js/2.61a01a15.chunk.js",
+    "static/css/main.ca7260d4.chunk.css",
+    "static/js/main.d51478fc.chunk.js"
   ]
 }
