@@ -1,21 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+
 .header{
-    padding: 20px;
+    font-size: 10px;
+    padding: 5px;
     color: white;
-    background: red;
+    background: #000000;
+}
+
+.headimg {
+    float: left;
 }
 
 .body{
+    float: left;
+    width: 20%;
     text-align: center;
+    background-color: antiquewhite;
+}
 
+.home {
+    padding: 5px 0 25px 0;
+}
+
+.main{
+    overflow: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.about {
+    font-size: 15px;
+    text-align: left;
+    background-color: #bd120b;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-style: outset;
+    border-color: #ccc82d;
+}
+
+.about img {
+    width: 100%;
 }
 
 .footer {
-    font-size: larger;
-    position: fixed;
+    font-size: 20px;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
-    padding: 10px;
-    background-color: #FAEBD7;
+    padding: 5px;
+    color: white;
+    background-color: #000000;
+}
+
+/* link stuff */
+.links {
+    width: 100%;
+
+    padding-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.links::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Resizing for different screens */
+@media only screen and (max-width:800px) {
+    /* For tablets: */
+    .main {
+        width: 80%;
+        padding: 0;
+    }
+    .footer, .header {
+        width: 100%;
+    }
+}
+@media only screen and (max-width:500px) {
+    /* For mobile phones: */
+    .main, .header, .footer, .columnm, .portraits, .portrait-box, .about video {
+        width: 100%;
+    }
+}
+
+
+/* video stuff */
+video {
+    object-fit: fill;
+    width: 100%;
+    /*height: 60%;
+    width: 60%;*/
+    /*-webkit-transform: scaleX(2);
+    -moz-transform: scaleX(2);*/
+}
+
+.path {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: dash 5s linear alternate infinite;
+}
+
+@keyframes dash {
+    from {
+        stroke-dashoffset: 822;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
 }

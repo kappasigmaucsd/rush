@@ -1,0 +1,33 @@
+.contact {
+    margin-bottom: 20px;
+    border-style: outset;
+    border-color: #ccc82d;
+    padding: 5px;
+    background-color: #b00000;
+}
+
+.contact input{
+    margin-right: 10px;
+}
+
+.contact input:focus, textarea:focus {
+    display: block;
+    outline: none;
+}
+
+.sub input {
+}
+
+.contact textarea {
+    padding: 5px;
+    height: 100%;
+    resize: none;
+}
+
+.contact button{
+    border: none;
+    padding: 10px 160px;
+
+    color: white;
+    background-color: #076813;
+}
