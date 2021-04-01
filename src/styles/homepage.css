@@ -3,8 +3,8 @@
 }
 
 .header{
-    font-size: 10px;
-    padding: 5px;
+    font-size: 15px;
+    padding: 0 0 50px 0;
     color: white;
     background: #000000;
 }
@@ -21,12 +21,22 @@
 }
 
 .home {
+    text-align: center;
+    color: #ccc82d;
     padding: 5px 0 25px 0;
+    background-color: #000000;
+}
+
+.home img {
+    max-width: 100%;
+    max-height: 100%;
+
+    -o-object-fit: contain;
+    object-fit: contain;
 }
 
 .main{
     overflow: auto;
-    text-align: center;
     width: 100%;
 }
 
@@ -35,13 +45,62 @@
     text-align: left;
     background-color: #bd120b;
     color: white;
-    padding: 10px 20px 10px 20px;
+    padding: 20px 20px 10px 20px;
     border-style: outset;
     border-color: #ccc82d;
 }
 
 .about img {
     width: 100%;
+}
+
+.filler {
+    padding-top: 20px;
+}
+
+
+.textbox {
+    font-family: "Centaur";
+    font-size: 20px;
+    color: #ccc82d;
+}
+
+.alignleft {
+    padding-left: 20px;
+    float: left;
+}
+
+.alignright {
+    padding-right: 20px;
+    float: right
+}
+
+.signup a {
+    position: relative;
+    padding: 20px 40px 20px 40px;
+    color: white;
+    alignment: center;
+    background-color: #bd120b;
+    height: 80px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.rush {
+    text-align: center;
+}
+
+.rush-contact {
+    font-size: 20px;
+    font-family: "Helvetica Neue";
+    color: white;
+    background-color: #076813;
+    padding: 5px 15px 20px 15px;
+    text-align: center;
+}
+
+.leadership {
+    text-align: center;
 }
 
 .footer {

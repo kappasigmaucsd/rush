@@ -11,6 +11,7 @@
     float: left;
     border-radius: 50%;
     width: 120px;
+    z-index: 0;
 }
 
 .portraits-ig img {
