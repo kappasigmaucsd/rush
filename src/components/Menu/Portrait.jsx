@@ -31,7 +31,7 @@ class Portrait extends React.Component{
                 <div className="portrait-box">
 
                     <div className="portraits-profile">
-                        <img src={pic}/>
+                        <img src={pic} alt="Composite"/>
                     </div>
 
                     <div className="name">
@@ -43,7 +43,7 @@ class Portrait extends React.Component{
 
                     <div className="portraits-ig">
                         <a href={link}>
-                            <img src={ig}/>
+                            <img src={ig} alt="Instagram"/>
                         </a>
                     </div>
 

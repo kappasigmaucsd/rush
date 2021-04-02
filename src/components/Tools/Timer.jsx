@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types'
 
 import '../../styles/tools/timer.css'
 
@@ -66,7 +65,7 @@ class Timer extends React.Component {
         });
 
         // Check if we're at zero.
-        if (seconds == 0) {
+        if (seconds === 0) {
             clearInterval(this.timer);
         }
     }

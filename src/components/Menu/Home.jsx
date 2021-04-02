@@ -10,7 +10,7 @@ const Home = () =>{
                     <p className="alignright">1869</p>
                 </div>
 
-                <img src={theme} />
+                <img src={theme} alt="theme"/>
                 <p>
                     Number one, second to none.
                 </p>

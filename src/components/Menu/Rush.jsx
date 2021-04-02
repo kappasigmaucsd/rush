@@ -34,13 +34,13 @@ const Rush = () => {
                 <p>Fernando Vazquez</p>
                 <p>(831) 334-9547</p>
                 <a href="https://www.instagram.com/itsfernanflow/">
-                    <img src={ig} width="70"/>
+                    <img src={ig} width="70" alt="Instagram"/>
                 </a>
 
                 <p>Christian Velasquez</p>
                 <p>(323) 926-6928</p>
                 <a href="https://www.instagram.com/chris.rar/">
-                    <img src={ig} width="70"/>
+                    <img src={ig} width="70" alt="Instagram"/>
                 </a>
 
             </div>

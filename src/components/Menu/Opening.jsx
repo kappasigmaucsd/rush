@@ -3,9 +3,6 @@ import glitch from '../../img/moshed_crest.gif'
 import '../../styles/tools/loader.css'
 
 class Opening extends React.Component{
-    constructor() {
-        super();
-    }
 
     render() {
         return (

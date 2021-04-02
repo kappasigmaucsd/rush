@@ -6,7 +6,7 @@ const About = () => {
     return (
         <div>
             <div className="about">
-                <img src={group}/>
+                <img src={group} alt="group"/>
                 <p>Fellowship, Leadership, Scholarship, Service. These are the four pillars of Kappa Sigma.</p>
 
                 <p>
